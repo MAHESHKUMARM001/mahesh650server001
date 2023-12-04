@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+/build/
+
+# Debugging tools
+.vscode/
+npm-debug.log*
+
+# IDE files
+.idea/
+*.iml
+
+# Package lock files
+package-lock.json
+yarn.lock
